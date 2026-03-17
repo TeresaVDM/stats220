@@ -18,10 +18,10 @@ Stats220 project 1 is about creating **HTML** combining things that were learnt 
 
 
 # Ways I felt when first starting project 1 #
--Frustrated
--Confused
--Like Liza did a secret lecture and never told me
--Like my last two brain cells were fighting for survival
+- Frustrated
+- Confused
+- Like Liza did a secret lecture and never told me
+- Like my last two brain cells were fighting for survival
 
 # How I intend on completing this Project #
 1. Part A
